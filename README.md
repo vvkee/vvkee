@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- I'm a frontend engineer and working on Bytedance.
-- I had used javascript, typescript, React for 7 years. I used Java, PHP, and a little bit of python before.
-- I'm learning Rust now.
-- How to reach me: weizongqi926@gmail.com
+- 💁 I'm a frontend engineer and working on Bytedance.
+- 💻 I had used javascript, typescript, React for 7 years. I used Java, PHP, and a little bit of python before.
+- 🏁 I'm learning Rust now.
+- 📱 How to reach me: weizongqi926@gmail.com
 
 
 Otherwise, our team(International e-commerce) is hiring FE. Let me know if you are interesting
