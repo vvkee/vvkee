@@ -8,8 +8,13 @@
 
 ## 🧭 About
 
-- 🤖 Building AI-agent workflows and developer tooling
-- 🔬 Research first — every product starts as a validated idea
+**Full-stack engineer turned agent-builder.**
+
+- 🕸️ **Web roots** — cut my teeth on React / Vue frontends and Node.js (Koa) services, back when SSR meant wiring it up yourself
+- 🧰 **Toolmaker by instinct** — scaffolds, CLI generators, middleware, API wrappers; anything done twice gets automated
+- 🧭 **Language journey** — JavaScript → TypeScript → Go / Python, always picking the tool the problem deserves
+- 🤖 **Now** — orchestrating AI coding agents into real workflows: multi-agent pipelines, session review, research automation
+- 🔬 **Method** — research first; every product starts as a validated idea
 - 🦉 Shipping small, focused products. Quietly.
 
 ## ⚡ Tech
