@@ -1,14 +1,6 @@
 
 ## vvkee✌️✌️✌️✌️✌️✌️
-- 💁 I'm a frontend engineer and working on Bytedance.
-- 💻 I had used javascript, typescript, React for 7 years. I used Java, PHP, and a little bit of python before.
-- 🏁 I'm learning Rust now.
-- 📱 How to reach me: 
-[![Linkedin Badge](https://img.shields.io/badge/-vvkee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vvkee/)](https://www.linkedin.com/in/vvkee/)
-[![Gmail Badge](https://img.shields.io/badge/-weizongqi926@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:weizongqi926@gmail.com)](mailto:weizongqi926@gmail.com)
-
-
-Otherwise, our team(International e-commerce) is hiring FE. Let me know if you are interesting
+- Do it
 
 ## ⚡ Technologies
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
